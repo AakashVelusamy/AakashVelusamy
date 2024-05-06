@@ -5,7 +5,7 @@ Student at PSG College of Technology 📚
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for help with Coding
 - 📫 Reach me using:
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aakashv465?s=11) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQF2oAOoCp_R4AAAAY9LU24ws2qdTciryE2ffW79dRW10wYs9RvGMsS-lWVmqiB6przIgrTUSvxxKAgW_1P3s9dSGC0wWRQ7BbyS2KLoD9qhIHKyPObyzG_dfDrNrZYLwe_XUiA=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faakash-velusamy-273878292%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app)
+<\br> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aakashv465?s=11) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQF2oAOoCp_R4AAAAY9LU24ws2qdTciryE2ffW79dRW10wYs9RvGMsS-lWVmqiB6przIgrTUSvxxKAgW_1P3s9dSGC0wWRQ7BbyS2KLoD9qhIHKyPObyzG_dfDrNrZYLwe_XUiA=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faakash-velusamy-273878292%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app)
 
 ### Languages I Code
 <img height="50" width="50" src="https://img.icons8.com/fluency/50/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" /> <img width="50" height="50" src="https://img.icons8.com/fluency/50/python.png"/>
