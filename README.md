@@ -20,7 +20,7 @@
 
 ### 📈 Statistics
 #### LeetCode Statistics:
-![Aakash's LeetCode Statistics](https://leetcard.jacoblin.cool/AakashVelusamy?theme=dark&font=Oxygen&ext=activity)
+![Aakash's LeetCode Statistics](https://leetcard.jacoblin.cool/AakashVelusamy?theme=dark&font=Oxygen)
 </br>
 
 #### GitHub Statistics:
