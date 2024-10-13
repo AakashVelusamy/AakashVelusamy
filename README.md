@@ -1,8 +1,7 @@
 ## Hello There I'm Aakash Velusamy 🙋‍♂️
 
-#### Student at PSG College of Technology 👨‍🎓
+#### M.Sc in Theoretical Computer Science | PSG College of Technology 👨‍🎓
 
-- 📚 Pursuing M.Sc in Theoretical Computer Science
 - 🌱 Currently learning Web Development
 - 📌 Interested in Competitive Programming
 - 🤔 Looking for help with Online Course Suggestions
