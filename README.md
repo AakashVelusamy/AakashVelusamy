@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Languages I Code
 <img height="50" width="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-c-programming.svg" /> <img height="50" width="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-c%2B%2B.svg" /> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-python.svg"/> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-html5.svg" /> <img height="50" width="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-css.svg" /> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/Rlogo.svg"/> 
-
+<img width="45" height="45" src="https://github.com/AakashVelusamy/logos/blob/main/assembly.svg"/>
 ### ⚙️ IDE and Tools I Use
 <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/PuTTY_Icon.svg"/> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-code-blocks.svg"/> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-spyder-ide-5.svg"/> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-google-colab.svg"/> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-visual-studio-code.svg"/>  <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/RStudio.svg"/> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/8086logo.png"/> 
 
