@@ -7,7 +7,7 @@
 - 🤔 Looking for help with Online Course Suggestions
 
 ### 📧 Reach Me Using
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakash-velusamy-273878292/) [<img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aakashvelusamy465@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakash-velusamy-273878292/) [<img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aakashvpsgtech@gmail.com)
 
 ### 👨‍💻 Languages I Code
 <img height="50" width="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-c-programming.svg" /> <img height="50" width="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-c%2B%2B.svg" /> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-python.svg"/> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-html5.svg" /> <img height="50" width="50" src="https://github.com/AakashVelusamy/logos/blob/main/icons8-css.svg" /> <img width="50" height="50" src="https://github.com/AakashVelusamy/logos/blob/main/Rlogo.svg"/> 
