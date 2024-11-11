@@ -18,8 +18,7 @@
 ### 💻 Workspace Specification
 <img height="30" src="https://img.shields.io/badge/ASUS-TUF_Gaming_F15-00529c?style=for-the-badge&logo=asus&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/intel-i7-0072CE?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
 
-### 📈 Statistics
-#### LeetCode Statistics:
+### 📈 LeetCode Statistics
 ![Aakash's LeetCode Statistics](https://leetcard.jacoblin.cool/AakashVelusamy?theme=dark&font=Oxygen&ext=heatmap)
 </br>
 
