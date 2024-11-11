@@ -4,7 +4,6 @@
 
 - 🌱 Currently learning Web Development
 - 📌 Interested in Competitive Programming
-- 🤔 Looking for help with Career Guidance and Online Course Suggestions
 
 ### 📧 Reach Me Using
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakash-velusamy-273878292/) [<img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aakashvpsgtech@gmail.com)
