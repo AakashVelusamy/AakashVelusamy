@@ -1,4 +1,4 @@
-## Hello There I'm Aakash Velusamy 🙋‍♂️
+## Hello There. I'm Aakash Velusamy 🙋‍♂️
 
 #### M.Sc in Theoretical Computer Science | PSG College of Technology 👨‍🎓
 
