@@ -66,7 +66,7 @@
 <hr/>
 
 <div align="center">
-<img src =https://visitcount.itsvg.in/api?id=AakashVelusamy&label=Profile%20Views&color=3&icon=3&pretty=false />
+<img src = https://komarev.com/ghpvc/?username=AakashVelusamy />
 </div>
 
 <hr/>
