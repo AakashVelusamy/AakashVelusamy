@@ -19,8 +19,10 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-3E2723?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-3E2723?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+
 </div>
 <div>
   <img src="https://img.shields.io/badge/PuTTY-607D8B?style=for-the-badge&logo=putty&logoColor=yellow" />
