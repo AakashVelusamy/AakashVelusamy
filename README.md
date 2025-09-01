@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/emu8086-37FD12?style=for-the-badge&logo=windows95&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Developer-3c9443?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+
   <br/>
   <img src="https://img.shields.io/badge/Atom-4FBF4B?style=for-the-badge&logoColor=white" />
 </div>
