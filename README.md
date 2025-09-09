@@ -63,7 +63,7 @@
 
 <h3> 📈 LeetCode Stats </h3>
 <div align="center">
-  <img width="400" align="center" src="https://leetcard.jacoblin.cool/AakashVelusamy?theme=dark&font=Oxygen&ext=heatmap" />
+  <img width="400" align="center" src="https://leetcard.jacoblin.cool/AakashVelusamy?theme=dark&font=Oxygen" />
 </div>
 
 <hr/>
