@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/emu8086-37FD12?style=for-the-badge&logo=windows95&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20CLI-26A269?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20CLI-2C001E?style=for-the-badge&logo=gnometerminal&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Developer-3c9443?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 
