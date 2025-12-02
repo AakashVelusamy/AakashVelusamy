@@ -7,6 +7,9 @@
 <div>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://gitlab.com/aakashvpsgtech">
+    <img src="https://img.shields.io/badge/GitLab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
 </div>
 
 <hr/>
