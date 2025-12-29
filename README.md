@@ -79,12 +79,12 @@
 
 <hr/>
 
-<h3> 🏆 Trophies Stack</h3>
+<!-- <h3> 🏆 Trophies Stack</h3>
 <div align="center">
   <img width="1000" align="center" src="https://github-profile-trophy.vercel.app/?username=AakashVelusamy&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=2" />
 </div>
 
-<hr/>
+<hr/> -->
 
 <div align="center">
 <img src = https://komarev.com/ghpvc/?username=AakashVelusamy />
