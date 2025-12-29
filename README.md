@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A66C2?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector%20Embeddings-FF8C00?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-592F8F?style=for-the-badge&logo=cloudinary&logoColor=white" />
