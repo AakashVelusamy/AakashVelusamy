@@ -47,13 +47,13 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-592F8F?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-239120?style=for-the-badge&logo=jwt&logoColor=white" />
   <img src="https://img.shields.io/badge/Nodemailer-FF4500?style=for-the-badge&logo=nodemailer&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Servo-DA1884?style=for-the-badge&logo=servo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppeteer-0A0A0A?style=for-the-badge&logo=puppeteer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-1B1B1B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer-DD0000?style=for-the-badge&logo=puppeteer&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-0078FF?style=for-the-badge&logo=render&logoColor=white" />
