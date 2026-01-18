@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-0078FF?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/PuTTY-607D8B?style=for-the-badge&logo=putty&logoColor=yellow" />
