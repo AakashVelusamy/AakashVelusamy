@@ -78,24 +78,24 @@
 
 <hr/>
 
-<h3> 💻 Workspace Specs </h3>
+<h3> 💻 Workspace Specifications </h3>
 <div align="center">
   <img height="30" src="https://img.shields.io/badge/ASUS-TUF_Gaming_F15-00529c?style=for-the-badge&logo=asus&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img height="30" src="https://img.shields.io/badge/intel-i7-0072CE?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Microsoft-Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=737373"/>
+  <img height="30" src="https://img.shields.io/badge/Intel-Core_i7_12700H-0072CE?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/NVIDIA-GeForce_RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </div>
+
 <div align="center">
   <img height="30" src="https://img.shields.io/badge/Lenovo-IdeaPad_Slim_5-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Microsoft-Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=737373" />
   <img height="30" src="https://img.shields.io/badge/Intel-Core_Ultra_5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
   <img height="30" src="https://img.shields.io/badge/Intel-Arc_Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </div>
 
-
 <hr/>
 
-<h3> 📈 LeetCode Stats </h3>
+<h3> 📈 LeetCode Statistics </h3>
 <div align="center">
   <img width="400" align="center" src="https://leetcard.jacoblin.cool/AakashVelusamy?theme=dark&font=Oxygen" />
 </div>
