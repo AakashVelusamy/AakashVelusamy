@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Render-0078FF?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/PuTTY-607D8B?style=for-the-badge&logo=putty&logoColor=yellow" />
@@ -72,8 +73,6 @@
   <img src="https://img.shields.io/badge/Linux%20CLI-2C001E?style=for-the-badge&logo=gnometerminal&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Developer-3c9443?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-
-  <br/>
   <img src="https://img.shields.io/badge/Atom-4FBF4B?style=for-the-badge&logoColor=white" />
 </div>
 
