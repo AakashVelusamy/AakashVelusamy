@@ -99,7 +99,7 @@
 
 <hr/>
 
-<h3> 💻 Workspace Specifications </h3>
+<h3> 💻 Workspace Specification </h3>
 <div align="center">
   <img height="30" src="https://img.shields.io/badge/ASUS-TUF_Gaming_F15_2023-00529c?style=for-the-badge&logo=asus&logoColor=white"/>
   <img height="30" src="https://img.shields.io/badge/Microsoft-Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=737373"/>
