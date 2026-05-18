@@ -117,7 +117,7 @@
 
 <div align="center">
   <img height="30" src="https://img.shields.io/badge/Apple-MacBook_Pro_2024-1D1D1F?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/macOS-Tahoe_26-1D1D1F?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Apple-macOS_Tahoe_26-1D1D1F?style=for-the-badge&logo=apple&logoColor=white"/>
   <img height="30" src="https://img.shields.io/badge/Apple-M4_Pro-1D1D1F?style=for-the-badge&logo=apple&logoColor=white"/>
   <img height="30" src="https://img.shields.io/badge/Apple-48_GB-1D1D1F?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
