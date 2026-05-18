@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=20&duration=2000&pause=1000&color=00D721&center=true&vCenter=true&width=1000&height=35&lines=Hello+There+I'm+Aakash+Velusamy+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;M.Sc.+Theoretical+Computer+Science+%7C+PSG+College+of+Technology+%F0%9F%93%9A;Currently+Learning+Web+Development+%F0%9F%8C%90;Interested+in+Competitive+Programming+%F0%9F%8F%86+"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=2500&pause=1200&color=00D721&center=true&vCenter=true&width=1200&height=40&lines=Hey+There!+I+am+Aakash+Velusamy+👋;Software+Engineer+Intern+%40Unbound+(YC+S24)+💼;M.Sc.+(Integrated)+in+Theoretical+Computer+Science+%40PSG+College+of+Technology+🎓;Interested+in+Programming+%26+Problem+Solving+🏆" />
   <br/>
 </h1>
 
@@ -93,6 +93,7 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-592F8F?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-4FBF4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
@@ -111,6 +112,13 @@
   <img height="30" src="https://img.shields.io/badge/Microsoft-Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=737373" />
   <img height="30" src="https://img.shields.io/badge/Intel-Core_Ultra_5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
   <img height="30" src="https://img.shields.io/badge/Intel-Arc_Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+</div>
+
+<div align="center">
+  <img height="30" src="https://img.shields.io/badge/Apple-MacBook_Pro_2024-1D1D1F?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/macOS-Tahoe_26-1D1D1F?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Apple-M4_Pro-1D1D1F?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Apple-48_GB-1D1D1F?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
 
 <hr/>
