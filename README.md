@@ -99,10 +99,6 @@
   <img src="https://img.shields.io/badge/Compiler%20Basics-5D4037?style=for-the-badge&logo=llvm&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Software%20Patterns-6A1B9A?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" />
-
   <br/>
 
   <!-- IDEs / Editors / Platforms -->
