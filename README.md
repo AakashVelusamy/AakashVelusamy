@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-3E2723?style=for-the-badge" />
 
-  <br/><br/>
+  <br/>
 
   <!-- Web Development -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Nodemailer-FF4500?style=for-the-badge&logo=nodemailer&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-592F8F?style=for-the-badge&logo=cloudinary&logoColor=white" />
 
-  <br/><br/>
+  <br/>
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
-  <br/><br/>
+  <br/>
 
   <!-- AI / Machine Learning -->
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A66C2?style=for-the-badge" />
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/AutoEncoder-00ACC1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Optimizers-43A047?style=for-the-badge" />
 
-  <br/><br/>
+  <br/>
 
   <!-- DevOps / Deployment -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Render-0078FF?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-  <br/><br/>
+  <br/>
 
   <!-- Systems / Compiler / OS -->
   <img src="https://img.shields.io/badge/Linux_CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Software%20Patterns-6A1B9A?style=for-the-badge&logo=codefactor&logoColor=white" />
   
-  <br/><br/>
+  <br/>
 
   <!-- IDEs / Editors / Platforms -->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
