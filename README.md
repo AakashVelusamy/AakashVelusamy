@@ -21,8 +21,8 @@
 <hr/>
 
 <h3> 🛠 Tech Toolbox </h3>
-<div>
-
+<div align="center">
+  
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-2A5B8D?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-0076A8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -70,7 +70,7 @@
 
   <!-- AI / Machine Learning -->
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A66C2?style=for-the-badge" />
-
+  
 </div>
 
 <hr/>
